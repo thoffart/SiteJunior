@@ -216,7 +216,7 @@ a:active {
     .hero-area start
 --*/
 .bg-1 {
-  background-image: url("../images/header-bg.jpg");
+  background-image: url("../images/imgjr/wallpaperinicial.jpg");
   background-size: cover;
   background-attachment: fixed; }
 
@@ -290,7 +290,7 @@ a:active {
   background-color: #fff;
   box-shadow: 0 2px 7px 0px rgba(142, 142, 142, 0.15); }
   .navigation.animated .menu a {
-    color: #666; }
+    color:#8e4491 ; }
 
 .menu li a {
   color: #fff;
@@ -310,7 +310,7 @@ a:active {
       font-size: 30px;
       display: inline-block;
       margin-bottom: 15px;
-      color: #1bafb4; }
+      color: #8e4491; }
     .service .block h3 {
       color: #333333;
       font-weight: 600;
