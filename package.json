@@ -1,11 +1,13 @@
 {
-  "name": "swift",
+  "name": "sitejuniorreact",
   "version": "1.0.0",
-  "description": "",
+  "description": "Infinity is a responsive, modern and clean free construction/coming soon HTML template powered by Bootstrap4. This minimal template is packed with a countdown timer, contact form, about section where you can write a little bit about yourself and also feature section.",
   "main": "gulpfile.js",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-sass": "^2.3.2"
+    "gulp-sass": "^2.3.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,7 +17,7 @@
     "type": "git",
     "url": "git+https://mehedi_sharif@bitbucket.org/themefishertemplate/swift.git"
   },
-  "author": "",
+  "author": "vinicius",
   "license": "ISC",
   "homepage": "https://bitbucket.org/themefishertemplate/swift#readme"
 }
